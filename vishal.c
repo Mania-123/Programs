@@ -45,7 +45,7 @@ int main()
 
 	switch(c)
 	case 'B': 
-	printf("enter the data value \n",d);
+	printf("enter the data value \n",d);/*This edited by me*/
 	scanf("%d",&d);
 	insert_at_begin(d,head);
 }
