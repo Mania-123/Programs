@@ -8,7 +8,7 @@ struct node   /* creating node*/
 };
 
 
-/* insert_at_begin function */
+
 int insert_at_begin(int data,struct node *head)
 {
 	
