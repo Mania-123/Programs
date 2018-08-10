@@ -1,3 +1,4 @@
+/* modified on 10th Aug*/
 #include<stdio.h>
 /* Demonstration of linked list */
 
