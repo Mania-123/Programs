@@ -9,7 +9,7 @@ struct node   /* creating node*/
 	struct node *next;
 };
 
-//Done by kk
+
 
 int insert_at_begin(int data,struct node *head)
 {
@@ -44,7 +44,7 @@ int main()
 	head=(struct node *)malloc(sizeof(struct node));
 	printf("choose B to insert at begining or choose E to insert at end\n");
 	scanf("%c",&c);
-
+	printf("hello");
 	switch(c)
 	case 'B': 
 	printf("enter the data value \n",d);/*This edited by me*/
