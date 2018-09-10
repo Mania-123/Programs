@@ -9,7 +9,7 @@ struct node   /* creating node*/
 	struct node *next;
 };
 //new changes
-
+//hello
 
 int insert_at_begin(int data,struct node *head)
 {
