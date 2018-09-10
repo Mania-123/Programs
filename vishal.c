@@ -8,7 +8,7 @@ struct node   /* creating node*/
 	int i;
 	struct node *next;
 };
-
+//new changes
 
 
 int insert_at_begin(int data,struct node *head)
